@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Problem Solving!");
+            Two_Sum.Run();
         }
     }
 }
