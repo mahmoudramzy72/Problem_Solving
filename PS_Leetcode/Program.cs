@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Two_Sum.Run();
+            // Two_Sum.Run();
+            Length_Of_Last_Word.Run();
         }
     }
 }
