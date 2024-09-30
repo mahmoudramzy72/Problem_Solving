@@ -1,7 +1,12 @@
-﻿namespace PS_Leetcode
+﻿using System.Collections.Generic;
+using System.Data.SqlTypes;
+
+namespace PS_Leetcode
 {
     internal class Length_Of_Last_Word
     {
+        // Given a string s consisting of words and spaces, return the length of the last word in the string.
+        // A word is a maximal substring consisting of non-space characters only.
         public static void Run()
         {
             string s = "   Fly Me   To   The Moon  ";
