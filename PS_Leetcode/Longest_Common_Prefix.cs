@@ -1,7 +1,4 @@
-﻿using Microsoft.VisualBasic;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.ComponentModel;
-namespace PS_Leetcode
+﻿namespace PS_Leetcode
 {
     internal class Longest_Common_Prefix
     {

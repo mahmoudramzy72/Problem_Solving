@@ -1,7 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Data.SqlTypes;
-
-namespace PS_Leetcode
+﻿namespace PS_Leetcode
 {
     internal class Length_Of_Last_Word
     {

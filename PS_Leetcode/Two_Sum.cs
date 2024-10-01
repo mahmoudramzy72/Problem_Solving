@@ -1,8 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Diagnostics;
-using System.Runtime.Intrinsics.X86;
-
-namespace PS_Leetcode
+﻿namespace PS_Leetcode
 {
     internal class Two_Sum
     {
