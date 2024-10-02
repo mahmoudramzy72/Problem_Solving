@@ -7,7 +7,8 @@
             // Two_Sum.Run();
             // Length_Of_Last_Word.Run();
             // Longest_Common_Prefix.Run();
-            Search_Insert_Position.Run();
+            // Search_Insert_Position.Run();
+            Remove_Duplicates_From_Sorted_Array.Run();
         }
     }
 }
