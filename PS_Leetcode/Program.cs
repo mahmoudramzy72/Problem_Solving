@@ -9,7 +9,8 @@
             // Longest_Common_Prefix.Run();
             // Search_Insert_Position.Run();
             // Remove_Duplicates_From_Sorted_Array.Run();
-            Find_The_Index_Of_The_First_Occurrence_In_A_String.Run();
+            // Find_The_Index_Of_The_First_Occurrence_In_A_String.Run();
+            Remove_Element.Run();
         }
     }
 }
