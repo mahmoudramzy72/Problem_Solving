@@ -10,7 +10,8 @@
             // Search_Insert_Position.Run();
             // Remove_Duplicates_From_Sorted_Array.Run();
             // Find_The_Index_Of_The_First_Occurrence_In_A_String.Run();
-            Remove_Element.Run();
+            // Remove_Element.Run();
+            Palindrome_Number.Run();
         }
     }
 }
