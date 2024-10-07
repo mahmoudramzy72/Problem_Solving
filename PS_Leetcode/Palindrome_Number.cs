@@ -1,6 +1,4 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
-
-namespace PS_Leetcode
+﻿namespace PS_Leetcode
 {
     // Given an integer x, return true if x is a palindrome, and false otherwise.
     internal class Palindrome_Number
