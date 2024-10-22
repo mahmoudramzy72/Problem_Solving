@@ -13,7 +13,8 @@
             // Remove_Element.Run();
             // Palindrome_Number.Run();
             // Roman_To_Integer.Run();
-            Valid_Parentheses.Run();
+            // Valid_Parentheses.Run();
+               Add_Binary.Run();
         }
     }
 }
