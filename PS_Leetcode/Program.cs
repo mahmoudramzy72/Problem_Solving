@@ -14,7 +14,8 @@
             // Palindrome_Number.Run();
             // Roman_To_Integer.Run();
             // Valid_Parentheses.Run();
-               Add_Binary.Run();
+            // Add_Binary.Run();
+               Number_Of_1_Bits.Run();
         }
     }
 }
