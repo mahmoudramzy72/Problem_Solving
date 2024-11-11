@@ -17,7 +17,8 @@
             // Add_Binary.Run();
             // Number_Of_1_Bits.Run();
             // Single_Number.Run();
-               Score_Of_A_String.Run();
+            // Score_Of_A_String.Run();
+            Move_Zeroes.Run();
         }
     }
 }

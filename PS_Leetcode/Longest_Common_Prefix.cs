@@ -7,7 +7,7 @@
 
         public static void Run()
         {
-            string[] strs = { "flower", "flow", "flight" };
+            string[] strs = { "lower", "filow", "filight" };
             string prefix = LongestCommonPrefix(strs);
             Console.WriteLine("Longest Common Prefix: " + prefix);
         }
