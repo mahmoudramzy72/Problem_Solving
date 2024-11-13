@@ -19,7 +19,8 @@
             // Single_Number.Run();
             // Score_Of_A_String.Run();
             // Move_Zeroes.Run();
-               Fizz_Buzz.Run();
+            // Fizz_Buzz.Run();
+               Plus_One.Run();
         }
     }
 }
