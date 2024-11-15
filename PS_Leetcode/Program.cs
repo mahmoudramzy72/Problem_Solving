@@ -20,7 +20,8 @@
             // Score_Of_A_String.Run();
             // Move_Zeroes.Run();
             // Fizz_Buzz.Run();
-               Plus_One.Run();
+            // Plus_One.Run();
+               Contains_Duplicate.Run();
         }
     }
 }
