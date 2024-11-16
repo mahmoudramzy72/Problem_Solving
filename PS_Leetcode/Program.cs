@@ -21,7 +21,8 @@
             // Move_Zeroes.Run();
             // Fizz_Buzz.Run();
             // Plus_One.Run();
-               Contains_Duplicate.Run();
+            // Contains_Duplicate.Run();
+            Majority_Element.Run();
         }
     }
 }
