@@ -22,7 +22,8 @@
             // Fizz_Buzz.Run();
             // Plus_One.Run();
             // Contains_Duplicate.Run();
-            Majority_Element.Run();
+            // Majority_Element.Run();
+            Best_Time_To_Buy_And_Sell_Stock.Run();
         }
     }
 }
