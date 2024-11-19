@@ -24,7 +24,8 @@
             // Contains_Duplicate.Run();
             // Majority_Element.Run();
             // Best_Time_To_Buy_And_Sell_Stock.Run();
-               Squares_Of_A_Sorted_Array.Run();
+            // Squares_Of_A_Sorted_Array.Run();
+            Rotate_Array.Run();
         }
     }
 }
