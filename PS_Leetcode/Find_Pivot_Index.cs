@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PS_Leetcode
+﻿namespace PS_Leetcode
 {
     internal class Find_Pivot_Index
     {
@@ -27,14 +21,13 @@ namespace PS_Leetcode
             }
             for (int i = 0; i < nums.Length; i++)
             {
-               
                 if (leftSum == totalSum - leftSum - nums[i])
                 {
                     return i;
                 }
-                leftSum += nums[i]; 
+                leftSum += nums[i];
             }
-            return -1; 
+            return -1;
         }
     }
 }
