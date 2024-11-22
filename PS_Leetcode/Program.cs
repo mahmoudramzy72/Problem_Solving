@@ -27,7 +27,8 @@
             // Squares_Of_A_Sorted_Array.Run();
             // Rotate_Array.Run();
             // Find_Pivot_Index.Run();
-            Check_If_N_And_Its_Double_Exist.Run();
+            // Check_If_N_And_Its_Double_Exist.Run();
+            Running_Sum_Of_1d_Array.Run();
         }
     }
 }
