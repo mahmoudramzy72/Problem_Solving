@@ -32,7 +32,8 @@
             // First_Unique_Character_In_A_String.Run();
             // Missing_Number.Run();
             // Concatenation_Of_Array.Run();
-            Final_Value_Of_Variable_After_Performing_Operations.Run();
+            // Final_Value_Of_Variable_After_Performing_Operations.Run();
+            Power_Of_Three.Run();
         }
     }
 }
