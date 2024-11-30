@@ -6,7 +6,7 @@
         // An integer n is a power of three, if there exists an integer x such that n == 3x.
         public static void Run()
         {
-            int n = 1;
+            int n = 27;
             bool result = IsPowerOfThree(n);
             Console.WriteLine(result);
         }
