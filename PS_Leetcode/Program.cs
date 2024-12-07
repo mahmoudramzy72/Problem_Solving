@@ -35,7 +35,8 @@
             // Final_Value_Of_Variable_After_Performing_Operations.Run();
             // Power_Of_Three.Run();
             // How_Many_Numbers_Are_Smaller_Than_The_Current_Number.Run();
-            Check_If_Two_String_Arrays_Are_Equivalent.Run();
+            // Check_If_Two_String_Arrays_Are_Equivalent.Run();
+            Truncate_Sentence.Run();
         }
     }
 }
