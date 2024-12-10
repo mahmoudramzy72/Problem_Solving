@@ -38,7 +38,8 @@
             // Check_If_Two_String_Arrays_Are_Equivalent.Run();
             // Truncate_Sentence.Run();
             // Number_Of_Employees_Who_Met_The_Target.Run();
-            Minimum_Number_Of_Moves_To_Seat_Everyone.Run();
+            // Minimum_Number_Of_Moves_To_Seat_Everyone.Run();
+            Find_MinimumOperations_To_Make_All_Elements_Divisible_By_Three.Run();
         }
     }
 }
