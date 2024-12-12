@@ -40,7 +40,8 @@
             // Number_Of_Employees_Who_Met_The_Target.Run();
             // Minimum_Number_Of_Moves_To_Seat_Everyone.Run();
             // Find_MinimumOperations_To_Make_All_Elements_Divisible_By_Three.Run();
-            The_Two_Sneaky_Numbers_of_Digitville.Run();
+            // The_Two_Sneaky_Numbers_of_Digitville.Run();
+            Create_Target_Array_In_The_Given_Order.Run();
         }
     }
 }
