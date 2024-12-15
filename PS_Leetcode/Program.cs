@@ -45,7 +45,8 @@ namespace PS_Leetcode
             // The_Two_Sneaky_Numbers_of_Digitville.Run();
             // Create_Target_Array_In_The_Given_Order.Run();
             // Sum_of_Squares_ofSpecial_Elements.Run();
-            Maximum_Number_Of_Words_Found_In_Sentences.Run();
+            // Maximum_Number_Of_Words_Found_In_Sentences.Run();
+            Minimum_Number_Game.Run();
         }
     }
 }
