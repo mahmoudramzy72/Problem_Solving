@@ -46,7 +46,9 @@ namespace PS_Leetcode
             // Create_Target_Array_In_The_Given_Order.Run();
             // Sum_of_Squares_ofSpecial_Elements.Run();
             // Maximum_Number_Of_Words_Found_In_Sentences.Run();
-            Minimum_Number_Game.Run();
+            // Minimum_Number_Game.Run();
+            Contains_Duplicate_II.Run();
+
         }
     }
 }
