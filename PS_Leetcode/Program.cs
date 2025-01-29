@@ -48,7 +48,8 @@ namespace PS_Leetcode
             // Maximum_Number_Of_Words_Found_In_Sentences.Run();
             // Minimum_Number_Game.Run();
             // Contains_Duplicate_II.Run();
-            Relative_Ranks.Run();
+            // Relative_Ranks.Run();
+            Next_Greater_Element_I.Run();
 
         }
     }
